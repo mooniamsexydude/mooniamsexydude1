@@ -3,6 +3,8 @@ body{
     background-image: url("img/body-bg.png");
     background-repeat: repeat-x;
     background-position: fixed;
+    line-height: 18px;
+
 }
 
 .content {
@@ -31,14 +33,15 @@ h1 {
     color: #2b8c57;
     font-weight: normal;
     margin-bottom: 10px;
+    font-style: italic;
  }
 h2 {
     font-size: 18px;
     color: #2b8c57;
     font-weight: normal;
-    font-family: cursive;
     margin-top: 30px;
     margin-bottom: 15px;
+    font-style: italic;
 
  }
 
@@ -48,8 +51,8 @@ div.block-1 {
     background-repeat: no-repeat;
     padding: 20px 30px 20px 30px;
     font-size: 12px;
-    font-style: italic;
     color: #fff;
+    font-style: italic;
 
 }
 div.block-2 {
