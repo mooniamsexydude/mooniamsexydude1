@@ -55,6 +55,7 @@ div.block-1 {
 div.block-2 {
     background-color: #356149;
     background-image: url("img/picture-1.png");
+    background-position: right;
     font-size: 12px;
     padding: 20px 30px 20px 30px;
     background-repeat: no-repeat;
